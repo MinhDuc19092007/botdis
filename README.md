@@ -52,10 +52,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="Trí Toán">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tritoan24&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="iamtritoan">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tritoan24&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -65,21 +65,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/iamtritoan/" target="blank">
+  <a href="https://tritoanservice.web.app/home" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=111134&format=png&color=000000" alt="tritoan-facebook" />
+  </a>
+    <a href="https://www.facebook.com/iamtritoan/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tritoan-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://www.tiktok.com/@iamtritoan?is_from_webapp=1&sender_device=pc" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=-x2V8Q63DerT&format=png&color=000000" alt="tritoan-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://icons8.com/icon/-x2V8Q63DerT/tiktok" alt="trungquandev-linkedin" />
-  </a>
-  
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="https://zalo.me/0862613348" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=HtQAciyY7o1f&format=png&color=000000" alt="tritoan-zalo" />
   </a>
 </div>
 
